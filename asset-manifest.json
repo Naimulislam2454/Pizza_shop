@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Pizza_shop/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Pizza_shop/static/js/main.e6f3c912.chunk.js",
-    "main.js.map": "/Pizza_shop/static/js/main.e6f3c912.chunk.js.map",
+    "main.js": "/Pizza_shop/static/js/main.e2b3a0c6.chunk.js",
+    "main.js.map": "/Pizza_shop/static/js/main.e2b3a0c6.chunk.js.map",
     "runtime-main.js": "/Pizza_shop/static/js/runtime-main.e0c3cb89.js",
     "runtime-main.js.map": "/Pizza_shop/static/js/runtime-main.e0c3cb89.js.map",
     "static/js/2.6a297006.chunk.js": "/Pizza_shop/static/js/2.6a297006.chunk.js",
@@ -11,12 +11,14 @@
     "static/js/3.19cc99f8.chunk.js.map": "/Pizza_shop/static/js/3.19cc99f8.chunk.js.map",
     "index.html": "/Pizza_shop/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/Pizza_shop/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.6a297006.chunk.js.LICENSE.txt": "/Pizza_shop/static/js/2.6a297006.chunk.js.LICENSE.txt"
+    "static/js/2.6a297006.chunk.js.LICENSE.txt": "/Pizza_shop/static/js/2.6a297006.chunk.js.LICENSE.txt",
+    "static/media/peproni.ba8aa0b4.png": "/Pizza_shop/static/media/peproni.ba8aa0b4.png",
+    "static/media/pizza.80b3d1db.png": "/Pizza_shop/static/media/pizza.80b3d1db.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e0c3cb89.js",
     "static/js/2.6a297006.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.e6f3c912.chunk.js"
+    "static/js/main.e2b3a0c6.chunk.js"
   ]
 }
